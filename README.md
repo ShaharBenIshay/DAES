@@ -1,3 +1,3 @@
 # DAES
-This include a project i did in Security Course about encryption.
-i managed to combain DES and AES encryptions algorithms
+This include a project we did in Security Course about encryption.
+we managed to combain DES and AES encryptions algorithms
